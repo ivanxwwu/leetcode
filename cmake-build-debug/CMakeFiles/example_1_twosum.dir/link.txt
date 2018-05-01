@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -g   CMakeFiles/example_1_twosum.dir/example_1_twosum.c.o  -o example_1_twosum -lpthread -Wl,-Bstatic -lhiredis -lev -Wl,-Bdynamic 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/cppworkspace/ClionProjects/leetcode/example_1_twosum.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
